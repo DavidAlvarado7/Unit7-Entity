@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/unit7-notes-entity.props" />
+</Project>

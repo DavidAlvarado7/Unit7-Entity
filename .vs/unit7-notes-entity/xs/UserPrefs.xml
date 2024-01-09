@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{9014449A-D6A8-49DA-954C-CBCC94BC165F}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.unit7-notes-entity FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="unit7-notes-entity/Program.cs">
+    <Files>
+      <File FileName="unit7-notes-entity/Controllers/HomeController.cs" Line="31" Column="2" />
+      <File FileName="unit7-notes-entity/Services.cs" Line="1" Column="1" />
+      <File FileName="unit7-notes-entity/Services/ToDoContext.cs" Line="16" Column="1" />
+      <File FileName="unit7-notes-entity/Program.cs" Line="35" Column="11" />
+      <File FileName="unit7-notes-entity/Models/ToDo.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="unit7-notes-entity" expanded="True">
+            <Node name="unit7-notes-entity" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
